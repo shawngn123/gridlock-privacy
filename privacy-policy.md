@@ -11,4 +11,4 @@ Any game progress is stored locally on your device only and is never transmitted
 If you contact the developer, your email will only be used to respond to your inquiry.
 
 Contact:
-gridlockgame@gmail.com
+shawngn1234@gmail.com
